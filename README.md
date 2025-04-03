@@ -1,14 +1,14 @@
-Student Management System  
+# Student Management System  
 
-A simple C program for managing student records. It allows users to:  
+A simple **C program** for managing student records. It allows users to:  
 - Add a student  
 - Display all students  
 - Search for a student by ID  
 - Delete a student  
 
- How to Run  
+## How to Run  
 
-1. Clone the repository 
+1. **Clone the repository**  
    ```sh
    git clone https://github.com/your-username/student-management-system.git
    cd student-management-system
@@ -19,17 +19,18 @@ A simple C program for managing student records. It allows users to:
    gcc student_management.c -o student_management
    ```  
 
-3. Run the program 
+3. **Run the program**  
    ```sh
    ./student_management
    ```  
- Usage  
+
+## Usage  
 
 - The program will display a menu with options.  
 - Enter the corresponding number to perform an action.  
 - Follow the on-screen instructions to manage student records.  
 
- Example  
+## Example  
 
 ```
 Student Management System
@@ -49,4 +50,4 @@ Student added successfully!
 
 ## Notes  
 - Make sure you enter valid inputs.  
-- The system can store up to 100 students.  
+- The system can store up to **100 students**.  
